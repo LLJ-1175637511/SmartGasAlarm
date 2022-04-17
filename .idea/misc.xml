@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/drawable-v24/ic_baseline_close_24_grey.xml" value="0.1815" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/drawable-v24/shape_rect_blue_low.xml" value="0.1815" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/drawable-v24/shape_rect_white.xml" value="0.1815" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/layout-land/activity_login.xml" value="0.21472663139329806" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/layout/activity_dev.xml" value="0.2" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/layout/activity_login.xml" value="0.16799999999999998" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/layout/activity_login1.xml" value="0.22826086956521738" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/layout/activity_user.xml" value="0.293790546802595" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/layout/fragment_bill.xml" value="0.22826086956521738" />
+        <entry key="..\:/E/Android/Graduation2022/SmartGasAarm/app/src/main/res/layout/item_history.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
