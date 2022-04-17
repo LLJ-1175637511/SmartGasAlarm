@@ -74,7 +74,6 @@ class MainVm : ViewModel() {
     }
 
     fun openDev() {
-
         viewModelScope.launch(Dispatchers.IO) {
             kotlin.runCatching {
                 val response = client.pub(sendOpenRequest)

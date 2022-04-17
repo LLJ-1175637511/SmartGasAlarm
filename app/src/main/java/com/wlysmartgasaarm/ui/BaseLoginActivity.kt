@@ -75,7 +75,7 @@ abstract class BaseLoginActivity<DB : ViewDataBinding> : IOTBaseActivity<DB>() {
         }
         if (username == "wly123" && password == "123456"){
             savedSp(username,password)
-            startActivityAndFinish(target)
+            startCommonActivity(target)
         }else{
             ToastUtils.toastShort("用户名或密码错误")
         }
